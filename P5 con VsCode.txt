@@ -1,0 +1,7 @@
+Instalar extensiones convenientes de p5.js:
+    - p5.js Notebook
+    - P5.js learning pack
+    - p5.vscode
+    - P5 server
+    - P5 Project Creator
+    - P5 resourses
