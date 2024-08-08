@@ -19,8 +19,3 @@ function draw() //Permite dibujar formas y figuras dentro del lienzo
     circle(200, 200, 100); //crea un circulo dentro del lienzo estático con una anchura y altura
     circle(mouseX, mouseY, 40) //Crea un circulo con un tamaño de 40px que se movera con el mouse
 }
-
-function doubleclicked()
-{
-    fill('deepink');
-}
