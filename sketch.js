@@ -16,6 +16,6 @@ function draw() //Permite dibujar formas y figuras dentro del lienzo
 {
     background(200); //agrega color al lienzo
     background("aqua"); //otra forma de agregar color al lienzo
-    circle(200, 200, 100); //crea un circulo dentro del lienzo estático con una anchura y altura
+    circle(200, 200, 100); //crea un circulo dentro del lienzo con el primer argimento x en 200 y el segundo parametro en Y 200 y el ultimo parámetro con una altura de 50 y unn ancho de 50
     circle(mouseX, mouseY, 40) //Crea un circulo con un tamaño de 40px que se movera con el mouse
 }
