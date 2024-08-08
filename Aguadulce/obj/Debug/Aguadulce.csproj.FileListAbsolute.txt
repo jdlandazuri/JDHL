@@ -1,0 +1,14 @@
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\PROGRAMACION C#\WPF\Aguadulce\Aguadulce\obj\Debug\Aguadulce.csproj.AssemblyReference.cache
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\PROGRAMACION C#\WPF\Aguadulce\Aguadulce\obj\Debug\MainWindow.g.cs
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\PROGRAMACION C#\WPF\Aguadulce\Aguadulce\obj\Debug\App.g.cs
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\PROGRAMACION C#\WPF\Aguadulce\Aguadulce\obj\Debug\Aguadulce_MarkupCompile.cache
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\PROGRAMACION C#\WPF\Aguadulce\Aguadulce\bin\Debug\Aguadulce.exe.config
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\PROGRAMACION C#\WPF\Aguadulce\Aguadulce\bin\Debug\Aguadulce.exe
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\PROGRAMACION C#\WPF\Aguadulce\Aguadulce\bin\Debug\Aguadulce.pdb
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\PROGRAMACION C#\WPF\Aguadulce\Aguadulce\obj\Debug\MainWindow.baml
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\PROGRAMACION C#\WPF\Aguadulce\Aguadulce\obj\Debug\Aguadulce.g.resources
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\PROGRAMACION C#\WPF\Aguadulce\Aguadulce\obj\Debug\Aguadulce.Properties.Resources.resources
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\PROGRAMACION C#\WPF\Aguadulce\Aguadulce\obj\Debug\Aguadulce.csproj.GenerateResource.cache
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\PROGRAMACION C#\WPF\Aguadulce\Aguadulce\obj\Debug\Aguadulce.csproj.CoreCompileInputs.cache
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\PROGRAMACION C#\WPF\Aguadulce\Aguadulce\obj\Debug\Aguadulce.exe
+C:\Users\ndani\OneDrive - Universidad Nacional Abierta y a Distancia\PROGRAMACION C#\WPF\Aguadulce\Aguadulce\obj\Debug\Aguadulce.pdb
